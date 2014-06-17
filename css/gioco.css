@@ -1,0 +1,12 @@
+	      html, body, #map_canvas {
+	        margin: 0;
+	        padding: 0;
+	        height: 100%;
+	      }
+              .col-md-9{
+                  height:100%;
+              }
+              .container-fluid{
+                  border-top: 100px;
+                  height:70%;
+              }
